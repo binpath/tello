@@ -1,15 +1,23 @@
 # TELLO
 
-## Objective {#idObjective}
+## Objective 
 Program to manipulate Tello dji drone
 
 ## Pre-requisites 
 1. Python
 2. djitellopy 
+```shell
+pip install djitellopy
+```
 3. cv2 as OpenCV
 ```shell
 pip install opencv-python
 ```
+4. Numpy 
+```shell
+pip install numpy
+```
+
 ## Drone 
 
 ### Connect 
